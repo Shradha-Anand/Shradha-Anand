@@ -18,9 +18,12 @@ class ShradhaAnand:
         self.username = 'Shradha-Anand'
         self.name = 'Shradha Anand'
         self.code = {
-            'machine_learning': ['Keras', 'TensorFlow', 'Pytorch'],
-            'computer_vision':  ['OpenCV', 'Python', 'Matlab','Pygame'],
-            'path_planning':  ['AStar', 'Dijkstra', 'RRT*','BFS'],
+            'languages': ['Python', 'JavaScript'],
+            'backend': ['MongoDB','PostgreSQL', 'ExpressJS','NodeJS'],
+            'frontend': ['Reactjs'],
+            'infrastructure': ['Google Cloud Platform', 'AWS']
+            'ci/cd' : ['git','alembic','terraform']
+
         }
         self.education = {
             'undergraduate':    ['University' : 'OSU',
