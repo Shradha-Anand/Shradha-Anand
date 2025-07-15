@@ -42,7 +42,7 @@ if __name__ == '__main__':
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 
 [![LinkedIn](https://img.shields.io/static/v1?label=LinkedIn&message=%20&color=orange&logo=LinkedIn&style=flat-square&logoColor=white)](https://www.linkedin.com/in/shradha-anand/)
-[![anands@umd.edu](https://img.shields.io/static/v1?label=svellise@umd.edu&message=%20&color=red&logo=gmail&style=flat-square&logoColor=white)](mailto:anands@umd.edu)
+[![anands@umd.edu](https://img.shields.io/static/v1?label=anands@umd.edu&message=%20&color=red&logo=gmail&style=flat-square&logoColor=white)](mailto:anands@umd.edu)
 [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/bukotsunikki.svg?style=social&label=Follow%20%40Shradha_Anand19)](https://x.com/Shradha_Anand19)
 
 
